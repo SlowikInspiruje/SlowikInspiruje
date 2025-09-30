@@ -1,16 +1,34 @@
-## Hi there 👋
+<img src="./banner.jpg" alt="Paweł Słowik – fotograf i twórca narzędzi" />
+# Cześć, jestem Paweł Słowik
 
-<!--
-**SlowikInspiruje/SlowikInspiruje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fotograf z 20+ latami doświadczenia i twórca narzędzi dla fotografów. Łączę fotografię, programowanie i edukację.
+Na YouTube prowadzę **Słowik Inspiruje** – vlogi i konkretna wiedza.
 
-Here are some ideas to get you started:
+## 🔧 Narzędzia dla fotografów
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌅 **SUNTIMER** – kalkulator wschodu/zachodu słońca + pozycja księżyca  
+  👉 https://www.slowik.eu/sun/
+
+- 🌌 **Mapa Nocnego Nieba (Dark Sky Map)** – znajdź miejsca wolne od LP, idealne do astro  
+  👉 https://www.slowik.eu/nocne-niebo/
+
+- 📷 **Sprawdź przebieg migawki (Shutter Count)** – prześlij zdjęcie, poznaj liczbę wyzwoleń  
+  👉 https://www.slowik.eu/przebiegaparatu/
+
+- 🕶️ **Kalkulator filtra ND** – precyzyjne czasy naświetlania z filtrami ND  
+  👉 https://www.slowik.eu/kalkulatornd/
+
+- 🔍 **Porównywarka ogniskowych** – porównaj kąty widzenia i ekwiwalenty  
+  👉 https://www.slowik.eu/ogniskowa/
+
+- 🧬 **IRIS (Lightroom Classic)** – „Twoje fotograficzne DNA”: statystyki, trendy, interaktywne wykresy  
+  👉 https://www.slowik.eu/produkt/iris-statystyki-dla-lightroom-classic/
+
+## 🧭 Czym się zajmuję
+- Tworzę praktyczne aplikacje, wtyczki i interaktywne mapy dla fotografów.  
+- Prowadzę warsztaty 1:1 i foto–wyjazdy (Szkocja, Dolomity, Toskania…).  
+- Uczę obróbki (Lightroom/Photoshop) i publikuję presety.
+
+## 📫 Kontakt i więcej
+[![Website](https://img.shields.io/badge/WWW-slowik.eu-blue?style=flat&logo=google-chrome)](https://www.slowik.eu)
+[![YouTube](https://img.shields.io/badge/YouTube-Słowik%20Inspiruje-red?style=flat&logo=youtube)](https://www.youtube.com/@slowikinspiruje)
